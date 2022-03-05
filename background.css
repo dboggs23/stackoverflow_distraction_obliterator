@@ -1,0 +1,7 @@
+#hot-network-questions,
+#left-sidebar,
+.s-sidebarwidget,
+.top-bar,
+#footer {
+	display: none !important;
+}
